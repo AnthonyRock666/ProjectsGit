@@ -1,0 +1,37 @@
+body {
+  font-family: Courier,'Lucida Console', monospace;
+  min-height: 400px;
+  background-image: url('https://s2.glbimg.com/5412ft5nc5QPrG44sEvPUay_-3A=/0x0:1279x720/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_08fbf48bc0524877943fe86e43087e7a/internal_photos/bs/2021/v/p/BLZh9QQ62E0I8JEHb75g/ps5.jpg');
+  background-color: #f8f8ff;
+  background-size: 200vh;
+  background-position: center center;
+  background-repeat: repeat;
+}
+
+.container {
+  text-align: center;
+  padding: 20px;
+  height: 100vh;
+}
+
+.page-title {
+  color: #4682b4;
+  margin: 0 0 5px;
+}
+
+.page-subtitle {
+  font-family: cursive;
+  color: #2e8b57;
+  margin-top: 20px;
+}
+
+.page-logo {
+  width: 85px;
+}
+
+.alura-logo {
+  width: 50px;
+  position: absolute;
+  top: 10px;
+  right:10px;
+}
